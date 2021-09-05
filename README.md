@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @delzmonkey
-- 👀 I’m interested in C#, Siemens TIA Portal, JS, Industrial Automation, Industry 4.0 och learning new things in general
+- 👋 Hi, I’m @Mattias-K
+- 👀 I’m interested in C#, Siemens TIA Portal, JS, Industrial Automation, Industry 4.0, Python och learning new things in general
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
